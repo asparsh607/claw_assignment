@@ -5,7 +5,7 @@ Automates the scraping of court order PDFs from [eCourts India](https://services
 ## 📁 Project Structure
 
 ```bash
-pdf_downloader/
+claw_assignment/
 ├── .gitignore       # Ignored files config
 ├── download_pdfs.py # PDF downloading script
 ├── requirements.txt # Python dependencies
@@ -25,7 +25,7 @@ pdf_downloader/
 
 ```bash
 git clone https://github.com/asparsh607/claw_assignment.git
-cd pdf_downloader
+cd claw_assignment
 ```
 
 ### 2. Install Python Dependencies
